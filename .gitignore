@@ -1,0 +1,7 @@
+_build/
+formatter_lib/_build/
+*.o
+*.a
+*.so
+*.exe
+tmp_lab03/
