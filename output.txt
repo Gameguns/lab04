@@ -1,0 +1,691 @@
+Script started on 2026-07-08 14:43:45+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="119" LINES="24"]
+[?2004h]0;roman@TP: ~/projects/lab04[01;32mroman@TP[00m:[01;34m~/projects/lab04[00m$ historu[Ky > output.txt
+[?2004l[?2004h]0;roman@TP: ~/projects/lab04[01;32mroman@TP[00m:[01;34m~/projects/lab04[00m$ exit
+[?2004lexit
+
+Script done on 2026-07-08 14:44:07+00:00 [COMMAND_EXIT_CODE="0"]
+ir -p workspace/tasks workspace/projects workspace/reports
+   17  wget https://nodejs.org/dist/v6.11.5/node-v6.11.5-linux-x64.tar.xz
+   18  tar -xf node-v6.11.5-linux-x64.tar.xz
+   19  rm node-v6.11.5-linux-x64.tar.xz
+   20  mv node-v6.11.5-linux-x64 node
+   21  export PATH=${PATH}:`pwd`/node/bin
+   22  mkdir scripts
+   23  cat > scripts/activate <<EOF
+   24  export PATH=\${PATH}:`pwd`/node/bin
+   25  Boost library lab commands
+   26  Подробная инструкция по РК1
+   27  Smart Pointers Implementation Solution
+   28  Решение трех билетов по физике
+   29  Раскрытие теорем из билетов по физике
+   30  Темы для повторения к РК2 по физике
+   31  NEW ME 2
+   32  Решение задач по булевым функциям
+   33  Early Venus may have had water
+   34  Помощь с вводом вектора в C++
+   35  Территориальные приобретения СССР 1939 1940
+   36  C++ Homework Explanation and Example
+   37  Запрос данных для задачи по физике
+   38  Запрос данных для решения задачи
+   39  Теоремы математического анализа с доказательствами
+   40  Решение задач по дифференциальному исчислению
+   41  Solving Russian Math Exam Tickets
+   42  Code Review and Correction for Threaded Multiplication
+   43  Английские предложения о достопримечательностях города
+   44  Подготовка к контрольной по дифференциальным уравнениям
+   45  Разделение теории и практики лабораторной работы
+   46  STL container usage explanation
+   47  Убрать панель ввода для скриншота
+   48  Класс времени с обработкой исключений
+   49  Идеи постов к 1 и 9 мая
+   50  Lab Tutorial Explanation
+   51  Совет по ответу о сотрудничестве
+   52  Решение задач по булеву кубу
+   53  Подготовка к рубежному контролю по линейной алгебре
+   54  Linear Algebra Exam Topics
+   55  NEW ME
+   56  Объяснение задания по CMake и коммитам
+   57  Признание ошибки и просьба о разъяснении
+   58  Physics Homework Mechanics Explanation
+   59  Ответы на вопросы по физике для МГТУ
+   60  Решение математических задач
+   61  Решение варианта 9 по математике
+   62  English time clause present simple
+   63  Theory and Problem Solutions for Math Analysis
+   64  Темы и разделы для задач 3 и 4
+   65  C++ Inheritance Lab Explanation
+   66  Решение задачи по варианту 2
+   67  Принципы решения интегральных задач
+   68  Ряд Тейлора функциональный объект
+   69  Кризисная поддержка и предотвращение суицида
+   70  Сайты для доклада о внешней политике СССР
+   71  Поддержка и анализ жизненной ситуации
+   72  Привет, друг это новый чат. Сейч
+   73  Structure relativity criticism for student presentation
+   74  Таблица революции 1917 года в России
+   75  Перегрузка операций в C++ краткий обзор
+   76  Sorting students by name and average score
+   77  Подтверждение сводки и готовность продолжить
+   78  Поиск ошибки сортировки данных
+   79  Решение интегралов контрольной работы
+   80  Идеи конкурсов для киновечера
+   81  Решение первых пяти интегралов
+   82  Перевод слов с английского на русский
+   83  Продолжение Анализа отношений
+   84  Linear Algebra Homework Explanation
+   85  Перефразирование текста о спорте
+   86  Короткие поздравления подруге
+   87  Создание саппорт билда барда в D&D
+   88  Решение задач линейной алгебры вариант 9
+   89  Статическое и динамическое связывание в C++
+   90  Наследование классов в C++ задачи и решения
+   91  Ответы на вопросы ЕСКД
+   92  Помощь с заданием по классам C++
+   93  Обход блокировки Telegram в Москве
+   94  Поздравления с 8 марта подругам и одногруппницам
+   95  Вопросы для интервью с победительницами универсиады
+   96  Теплое поздравление учительнице английского
+   97  Решение интегралов методом подведения под дифференциал
+   98  Запрос текста для составления плана
+   99  Анализ российских партий начала 20 века
+  100  Анализ отношений и преодоление страха открытости
+  101  Решение задачи по программированию
+  102  Решение задач по булеву кубу
+  103  Поиск сайтов для доклада по истории
+  104  Все версии пылесосов Dyson и лучший выбор
+  105  Объяснение хэш-таблиц в C++
+  106  Советы по созданию цепляющего Reels для Спартакиады
+  107  Объяснение лабораторной работы по утилитам
+  108  Причины ошибки установки КОМПАС
+  109  Перевод текста о телевидении
+  110  Почему имена в аниме заканчиваются на ске
+  111  Решение задачи по линейной алгебре
+  112  Решение ошибки VirtualBox COM объект
+  113  Помощь в решении задач
+  114  Переходы шторками в GameMaker Studio 2
+  115  Настройка прокси на iPhone инструкция
+  116  Решение интеграла с корнями
+  117  Перевод английских слов на русский
+  118  Анализ безопасности приложения Телега
+  119  Запрос на переделку дизайна сайта гостиницы
+  120  Анализ сложных отношений и личный рост
+  121  Отказ от создания порно с знаменитостями
+  122  Поиск песни из фильма Диктатор
+  123  Ubuntu disk erase selection help
+  124  Подборка фильмов для киновикторины
+  125  Boost library lab commands
+  126  Мы видим, что пользователь уточняет: в предыдущем ответе я дал полную инструкцию, включая tutorial (настройка окружения, node.js, gist), но пользователь спрашивает, что из этого обязательно, и просит расписать по пунктам от начала до отправки преподавателю. По сути, лабораторная состоит из двух частей: tutorial (настройка) и домашнее задание (работа с boost). В задании указано: "Выполнить инструкцию учебного материала" - это tutorial, и затем "Homework" (задания про boost). Так что обязательно выполнить и tutorial, и homework. Но пользователь хочет конкретный список шагов, которые необходимо сделать, чтобы сдать лабораторную. Отвечу кратко: выделю обязательные действия.
+  127  Обязательные шаги лабораторной работы (от начала до отправки)
+  128  Ниже перечислены только необходимые действия, которые нужно выполнить и включить в отчёт.
+  129  Пропускать ничего нельзя — и Tutorial, и Homework обязательны.
+  130  Часть 1. Выполнение инструкции учебного материала (Tutorial)
+  131      Установить переменные окружения
+  132      bash
+  133      export GITHUB_USERNAME=<ваш_username>
+  134      export GIST_TOKEN=<ваш_токен>
+  135          Токен нужно заранее создать на GitHub (Settings → Developer settings → Personal access tokens → Generate new token). Права: gist.
+  136      Создать рабочую структуру каталогов
+  137      bash
+  138      mkdir -p ${GITHUB_USERNAME}/workspace
+  139      cd ${GITHUB_USERNAME}/workspace
+  140      mkdir -p workspace/tasks workspace/projects workspace/reports
+  141      Скачать и установить Node.js (версия 6.11.5)
+  142      bash
+  143      wget https://nodejs.org/dist/v6.11.5/node-v6.11.5-linux-x64.tar.xz
+  144      tar -xf node-v6.11.5-linux-x64.tar.xz
+  145      rm node-v6.11.5-linux-x64.tar.xz
+  146      mv node-v6.11.5-linux-x64 node
+  147      export PATH=${
+  148  mkdir -p $Gameguns/workspacecat > scripts/activate <<EOF
+  149  cat > scripts/activate <<EOF
+  150  export PATH=\${PATH}:`pwd`/node/bin
+  151  EOF
+  152  cd reports/lab${LAB_NUMBER}
+  153  sudo apt install
+  154  sudo apt update
+  155  sudo apt install -y git cmake build-essential cpack dpkg-dev
+  156  sudo apt install -y git cmake build-essential dpkg-dev
+  157  git clone https://github.com/taeguk/GoF-Design-Patterns.git
+  158  cd GoF-Design-Patterns/Behavioral/Memento
+  159  cat > CMakeLists.txt << 'EOF'
+  160  #include "Originator.hpp"
+  161  #include "State.hpp"
+  162  #include <cassert>
+  163  #include <iostream>
+  164  int main() {
+  165      Originator originator;
+  166      State original("First state");
+  167      originator.setState(original);
+  168      Memento* memento = originator.createMemento();
+  169      State newState("Second state");
+  170      originator.setState(newState);
+  171      originator.restoreFromMemento(memento);
+  172      bool ok = (originator.getState().getState() == original.getState());
+  173      assert(ok);
+  174      std::cout << "Test passed: state restored correctly.\n";
+  175      delete memento;
+  176      return 0;
+  177  }
+  178  EOF
+  179  cat > build.sh << 'EOF'
+  180  #!/bin/bash
+  181  set -e
+  182  BUILD_DIR="build"
+  183  echo "=== Configuring CMake (Release) ==="
+  184  cmake -S . -B $BUILD_DIR -DCMAKE_BUILD_TYPE=Release
+  185  echo "=== Building ==="
+  186  cmake --build $BUILD_DIR --config Release --parallel $(nproc)
+  187  echo "=== Running tests ==="
+  188  cd $BUILD_DIR
+  189  ctest --output-on-failure
+  190  cd ..
+  191  echo "=== Generating DEB package ==="
+  192  cmake --build $BUILD_DIR --target package
+  193  echo "=== Done. DEB located in $BUILD_DIR/ ==="
+  194  EOF
+  195  chmod +x build.sh
+  196  6. Создайте GitHub Actions workflow (локально, потом запушите)
+  197  bash
+  198  chmod +x build.sh
+  199  mkdir -p .github/workflows
+  200  cat > .github/workflows/ci.yml << 'EOF'
+  201  name: CI/CD Pipeline
+  202  on:
+  203    push:
+  204      branches: [ main ]
+  205    pull_request:
+  206      branches: [ main ]
+  207  permissions:
+  208    contents: write
+  209  jobs:
+  210    build-and-test:
+  211      runs-on: ubuntu-latest
+  212      steps:
+  213        - uses: actions/checkout@v4
+  214        - name: Configure CMake
+  215          run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+  216        - name: Build
+  217          run: cmake --build build --config Release -j $(nproc)
+  218        - name: Test
+  219          run: |
+  220            cd build
+  221            ctest --output-on-failure
+  222        - name: Package
+  223          run: |
+  224            cd build
+  225            cpack -G DEB
+  226        - name: Upload DEB artifact
+  227          uses: actions/upload-artifact@v4
+  228          with:
+  229            name: memento-deb-package
+  230            path: build/*.deb
+  231    create-release:
+  232      needs: build-and-test
+  233      runs-on: ubuntu-latest
+  234      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+  235      steps:
+  236        - uses: actions/download-artifact@v4
+  237          with:
+  238            name: memento-deb-package
+  239            path: artifacts
+  240        - name: Create Release and Upload Asset
+  241          uses: softprops/action-gh-release@v2
+  242          with:
+  243            tag_name: v1.0.${{ github.run_number }}
+  244            name: Release v1.0.${{ github.run_number }}
+  245            body: "Автоматический релиз сборки #${{ github.run_number }}"
+  246            files: artifacts/*.deb
+  247  EOF
+  248  ./build.sh
+  249  cat > CMakeLists.txt << 'EOF'
+  250  cat > .github/workflows/ci.yml << 'EOF'
+  251  name: CI/CD Pipeline
+  252  on:
+  253    push:
+  254      branches: [ main ]
+  255    pull_request:
+  256      branches: [ main ]
+  257  permissions:
+  258    contents: write
+  259  jobs:
+  260    build-and-test:
+  261      runs-on: ubuntu-latest
+  262      steps:
+  263        - uses: actions/checkout@v4
+  264        - name: Configure CMake
+  265          run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+  266        - name: Build
+  267          run: cmake --build build --config Release -j $(nproc)
+  268        - name: Test
+  269          run: |
+  270            cd build
+  271            ctest --output-on-failure
+  272        - name: Package
+  273          run: |
+  274            cd build
+  275            cpack -G DEB
+  276        - name: Upload DEB artifact
+  277          uses: actions/upload-artifact@v4
+  278          with:
+  279            name: memento-deb-package
+  280            path: build/*.deb
+  281    create-release:
+  282      needs: build-and-test
+  283      runs-on: ubuntu-latest
+  284      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+  285      steps:
+  286        - uses: actions/download-artifact@v4
+  287          with:
+  288            name: memento-deb-package
+  289            path: artifacts
+  290        - name: Create Release and Upload Asset
+  291          uses: softprops/action-gh-release@v2
+  292          with:
+  293            tag_name: v1.0.${{ github.run_number }}
+  294            name: Release v1.0.${{ github.run_number }}
+  295            body: "Автоматический релиз сборки #${{ github.run_number }}"
+  296            files: artifacts/*.deb
+  297  EOF
+  298  cat > CMakeLists.txt << 'EOF'
+  299  cmake_minimum_required(VERSION 3.10)
+  300  project(MementoPattern)
+  301  set(CMAKE_CXX_STANDARD 14)
+  302  set(CMAKE_CXX_STANDARD_REQUIRED ON)# Перечисляем конкретные файлы (их немного)
+  303  set(SOURCES
+  304      Caretaker.cpp
+  305      Memento.cpp
+  306      Originator.cpp
+  307      State.cpp
+  308  )
+  309  add_executable(memento_example ${SOURCES})
+  310  add_executable(memento_test test.cpp)
+  311  target_link_libraries(memento_test memento_example)
+  312  enable_testing()
+  313  add_test(NAME MementoTest COMMAND memento_test)
+  314  set(CPACK_PACKAGE_NAME "memento-pattern")
+  315  set(CPACK_PACKAGE_VERSION "1.0.0")
+  316  set(CPACK_DEBIAN_PACKAGE_MAINTAINER "User <user@example.com>")
+  317  set(CPACK_GENERATOR "DEB")
+  318  include(CPack)
+  319  EOF
+  320  rm -rf build/
+  321  ./build.sh
+  322  cat > CMakeLists.txt << 'EOF'
+  323  cmake_minimum_required(VERSION 3.10)
+  324  project(MementoPattern)
+  325  set(CMAKE_CXX_STANDARD 14)
+  326  set(CMAKE_CXX_STANDARD_REQUIRED ON)
+  327  # Собираем библиотеку из основных исходников
+  328  set(LIB_SOURCES
+  329      Memento.cpp
+  330      Originator.cpp
+  331      State.cpp
+  332  )
+  333  add_library(memento_lib STATIC ${LIB_SOURCES})
+  334  # Собираем основную программу (если есть main.cpp)
+  335  # Если main.cpp нет, эту часть можно закомментировать
+  336  if(EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp)
+  337      add_executable(memento_example main.cpp)
+  338      target_link_libraries(memento_example memento_lib)
+  339  endif()
+  340  # Собираем тест
+  341  add_executable(memento_test test.cpp)
+  342  target_link_libraries(memento_test memento_lib)
+  343  # Включаем тестирование
+  344  enable_testing()
+  345  add_test(NAME MementoCoreTest COMMAND memento_test)
+  346  # Настройка DEB пакета
+  347  set(CPACK_PACKAGE_NAME "memento-pattern")
+  348  set(CPACK_PACKAGE_VERSION "1.0.0")
+  349  set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Memento Design Pattern Example")
+  350  set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Your Name <email@example.com>")
+  351  set(CPACK_GENERATOR "DEB")
+  352  include(CPack)
+  353  EOF
+  354  rm -rf /build
+  355  ./build.sh
+  356  ls -la
+  357  cd ~/GoF-Design-Patterns/Behavioral/Memento
+  358  rm -rf build/ CMakeLists.txt build.sh test.cpp
+  359  rm -f *.cpp *.hpp *.h
+  360  cat > State.hpp << 'EOF'
+  361  #ifndef STATE_HPP
+  362  #define STATE_HPP
+  363  #include <string>
+  364  class State {
+  365  private:
+  366      std::string data;
+  367  public:
+  368      State() = default;
+  369      State(const std::string& s) : data(s) {}
+  370      std::string getState() const { return data; }
+  371      void setState(const std::string& s) { data = s; }
+  372  };
+  373  #endif
+  374  EOF
+  375  cat > Memento.hpp << 'EOF'
+  376  #ifndef MEMENTO_HPP
+  377  #define MEMENTO_HPP
+  378  #include "State.hpp"
+  379  class Memento {
+  380  private:
+  381      State state;
+  382  public:
+  383      Memento(const State& s) : state(s) {}
+  384      State getState() const { return state; }
+  385  };
+  386  #endif
+  387  EOF
+  388  cat > Originator.hpp << 'EOF'
+  389  #ifndef ORIGINATOR_HPP
+  390  #define ORIGINATOR_HPP
+  391  #include "State.hpp"
+  392  #include "Memento.hpp"
+  393  class Originator {
+  394  private:
+  395      State state;
+  396  public:
+  397      void setState(const State& s);
+  398      State getState() const;
+  399      Memento* createMemento() const;
+  400      void restoreFromMemento(Memento* m);
+  401  };
+  402  #endif
+  403  EOF
+  404  cat > Originator.cpp << 'EOF'
+  405  #include "Originator.hpp"
+  406  void Originator::setState(const State& s) {
+  407      state = s;
+  408  }
+  409  State Originator::getState() const {
+  410      return state;
+  411  }
+  412  Memento* Originator::createMemento() const {
+  413      return new Memento(state);
+  414  }
+  415  void Originator::restoreFromMemento(Memento* m) {
+  416      if (m) {
+  417          state = m->getState();
+  418      }
+  419  }
+  420  EOF
+  421  cat > test.cpp << 'EOF'
+  422  #include "Originator.hpp"
+  423  #include <iostream>
+  424  #include <cassert>
+  425  int main() {
+  426      Originator originator;
+  427      
+  428      // Создаем состояние
+  429      State original("First state");
+  430      originator.setState(original);
+  431      
+  432      // Сохраняем состояние через Memento
+  433      Memento* saved = originator.createMemento();
+  434      
+  435      // Меняем состояние
+  436      State newState("Second state");
+  437      originator.setState(newState);
+  438      
+  439      // Восстанавливаем
+  440      originator.restoreFromMemento(saved);
+  441      
+  442      // Проверяем
+  443      assert(originator.getState().getState() == original.getState());
+  444      std::cout << "Test passed: State restored successfully!" << std::endl;
+  445      
+  446      delete saved;
+  447      return 0;
+  448  EOF
+  449  cat > test.cpp << 'EOF'
+  450  #include "Originator.hpp"
+  451  #include <iostream>
+  452  #include <cassert>
+  453  int main() {
+  454      Originator originator;
+  455      
+  456      // Создаем состояние
+  457      State original("First state");
+  458      originator.setState(original);
+  459      
+  460      // Сохраняем состояние через Memento
+  461      Memento* saved = originator.createMemento();
+  462      
+  463      // Меняем состояние
+  464      State newState("Second state");
+  465      originator.setState(newState);
+  466      
+  467      // Восстанавливаем
+  468      originator.restoreFromMemento(saved);
+  469      
+  470      // Проверяем
+  471      assert(originator.getState().getState() == original.getState());
+  472      std::cout << "Test passed: State restored successfully!" << std::endl;
+  473      
+  474      delete saved;
+  475      return 0;
+  476  }
+  477  EOF
+  478  cat > CMakeLists.txt << 'EOF'
+  479  cmake_minimum_required(VERSION 3.10)
+  480  project(MementoPattern)
+  481  set(CMAKE_CXX_STANDARD 14)
+  482  set(CMAKE_CXX_STANDARD_REQUIRED ON)
+  483  # Основные исходники
+  484  set(SOURCES
+  485      Originator.cpp
+  486  )
+  487  # Тест
+  488  add_executable(memento_test test.cpp ${SOURCES})
+  489  # Включаем тестирование
+  490  enable_testing()
+  491  add_test(NAME MementoTest COMMAND memento_test)
+  492  # Настройка DEB пакета
+  493  set(CPACK_PACKAGE_NAME "memento-pattern")
+  494  set(CPACK_PACKAGE_VERSION "1.0.0")
+  495  set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Memento Design Pattern Example")
+  496  set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Student <student@example.com>")
+  497  set(CPACK_GENERATOR "DEB")
+  498  include(CPack)
+  499  EOF
+  500  cat > build.sh << 'EOF'
+  501  #!/bin/bash
+  502  set -e
+  503  BUILD_DIR="build"
+  504  echo "=== Configuring CMake (Release) ==="
+  505  cmake -S . -B $BUILD_DIR -DCMAKE_BUILD_TYPE=Release
+  506  echo "=== Building ==="
+  507  cmake --build $BUILD_DIR --config Release --parallel $(nproc)
+  508  echo "=== Running tests ==="
+  509  cd $BUILD_DIR
+  510  ctest --output-on-failure
+  511  cd ..
+  512  echo "=== Generating DEB package ==="
+  513  cmake --build $BUILD_DIR --target package
+  514  echo "=== Done ==="
+  515  ls -la $BUILD_DIR/*.deb
+  516  EOF
+  517  chmod +x build.sh
+  518  ls -la *.cpp *.hpp test.cpp build.sh CMakeLists.txt
+  519  ./build.sh
+  520  mkdir -p .github/workflows
+  521  cat > .github/workflows/ci.yml << 'EOF'
+  522  name: CI/CD Pipeline
+  523  on:
+  524    push:
+  525      branches: [ main ]
+  526    pull_request:
+  527      branches: [ main ]
+  528  permissions:
+  529    contents: write
+  530  jobs:
+  531    build-and-test:
+  532      runs-on: ubuntu-latest
+  533      steps:
+  534        - uses: actions/checkout@v4
+  535        - name: Configure CMake
+  536          run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+  537        - name: Build
+  538          run: cmake --build build --config Release -j $(nproc)
+  539        - name: Test
+  540          run: |
+  541            cd build
+  542            ctest --output-on-failure
+  543        - name: Package
+  544          run: |
+  545            cd build
+  546            cpack -G DEB
+  547        - name: Upload DEB artifact
+  548          uses: actions/upload-artifact@v4
+  549          with:
+  550            name: memento-deb-package
+  551            path: build/*.deb
+  552    create-release:
+  553      needs: build-and-test
+  554      runs-on: ubuntu-latest
+  555      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+  556      steps:
+  557        - uses: actions/download-artifact@v4
+  558          with:
+  559            name: memento-deb-package
+  560            path: artifacts
+  561        - name: Create Release and Upload Asset
+  562          uses: softprops/action-gh-release@v2
+  563          with:
+  564            tag_name: v1.0.${{ github.run_number }}
+  565            name: Release v1.0.${{ github.run_number }}
+  566            body: "Автоматический релиз сборки #${{ github.run_number }}"
+  567            files: artifacts/*.deb
+  568  EOF
+  569  ./build.sh
+  570  git init
+  571  git add .
+  572  git commit -m "Add CMake, test, build script and CI"
+  573  git config --global user.name "Gameguns"
+  574  git config --global user.email "kachanov.07@mail.ru"
+  575  git commit -m "Add CMake, test, build script and CI"
+  576  git branch -M main
+  577  git remote add origin https://github.com/Gameguns/RK2.git
+  578  git push -u origin main
+  579  git rm -r --cached build
+  580  echo "build/" >> .gitignore
+  581  git status
+  582  git add .gitignore
+  583  git commit -m "Remove build directory from repo, add to gitignore"
+  584  git push origin main
+  585  cd ~/RK2
+  586  find ~ -type d -name "RK2" 2>/dev/null
+  587  cd ~
+  588  find ~ -type d -name "RK2" 2>/dev/null
+  589  cd ~/RK2
+  590  cd ~
+  591  pwd
+  592  git clone https://github.com/Gameguns/RK2.git
+  593  cd
+  594  cd ~
+  595  mkdir -p rk2_memento
+  596  cd rk2_memento
+  597  nano State.hpp
+  598  nano State.cpp
+  599  nano Memento.hpp
+  600  nano Memento.cpp
+  601  nano Originator.hpp
+  602  nano Originator.cpp
+  603  nano test.cpp
+  604  nano CmakeLists.txt
+  605  nano build_and_test.sh
+  606  chmod +x build_and_test.sh
+  607  sudo apt update
+  608  sudo apt install checkinstall
+  609  git init
+  610  git add .
+  611  git commit -m "Initial commit: Memento implementation, CMake, build script"
+  612  git remote add origin https://github.com/Gameguns/RK_2.git
+  613  git branch -M main
+  614  git push -u origin main
+  615  mkdir -p .github/workflows
+  616  nano .github/workflows/build.yml
+  617  git add .github/workflows/build.yml
+  618  git commit -m "Add GitHub Actions CI"
+  619  git push
+  620  nano .github/workflows/build.yml
+  621  git add .github/workflows/build.yml
+  622  git commit -m "Update actions to v4"
+  623  git push
+  624  cd ~
+  625  git clone https://github.com/Gameguns/RK_2.git
+  626  cp ~/rk2_memento/* .
+  627  git add .
+  628  cd ~/RK_2
+  629  cp ~/rk2_memento/* .
+  630  ls -la
+  631  git add .
+  632  git status
+  633  git commit -m "Add complete Memento project: source files, CMakeLists, build script"
+  634  git push
+  635  clear
+  636  cd ~
+  637  mkdir ~/grade_project
+  638  cd ~/grade_project
+  639  nano Grade.h
+  640  nano Grade.cpp
+  641  nano main.cpp
+  642  nano CMakeLists.txt
+  643  ls -la
+  644  cmake -B build
+  645  cmake --build build
+  646  nano Grade.cpp
+  647  cmake --build build
+  648  nano Grade.cpp
+  649  cmake --build build
+  650  ./build/main
+  651  nano Grade.cpp
+  652  ./build/main
+  653  nano CMakeLists.txt
+  654  cd ~/RK_2
+  655  ls -la
+  656  mv CmakeLists.txt CMakeLists.txt
+  657  git add CMakeLists.txt
+  658  git rm CmakeLists.txt 2>/dev/null
+  659  git commit -m "Fix CMakeLists.txt name (case sensitive)"
+  660  git push
+  661  nano State.hpp
+  662  nano Originator.hpp
+  663  git add State.hpp Originator.hpp
+  664  git commit -m "Add default constructors to State and Originator"
+  665  git push
+  666  nano State.hpp
+  667  nano Originator.hpp
+  668  git add State.hpp Originator.hpp Memento.hpp
+  669  git commit -m "Fix include guards and remove duplicate code"
+  670  git push
+  671  nano CMakeLists.txt
+  672  git add CMakeLists.txt
+  673  git commit -m "Fix include guards and remove duplicate code"
+  674  git push
+  675  ls -la
+  676  nano build_and_test.sh
+  677  nano CMakeLists.txt
+  678  nano test.cp
+  679  nano test.cpp 
+  680  nano .github/workflows/build.yml 
+  681  nano CMakeLists.txt
+  682  nano test.cpp
+  683  nano CMakeLists.txt
+  684  nano .github/workflows/build.yml 
+  685  #!/bin/bash
+  686  set -e
+  687  mkdir -p build
+  688  cd build
+  689  cmake ..
+  690  make
+  691  ./memento_test
+  692  sudo make install || true
+  693  sudo checkinstall --pkgname=memento-pattern --pkgversion=1.0 --backup=no --fstrans=no --install=no --nodoc -y
+  694  mv *.deb ../
+  695  cd ..
+  696  nano CMakeLists.txt
+  697  git add .
+  698  git commit -m "Use Google Test and auto release"
+  699  git push
+  700  history > output.txt
