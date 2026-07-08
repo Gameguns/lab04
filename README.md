@@ -44,9 +44,9 @@ name: Linux CI
 
 on:
   push:
-    branches: [  main ]
+    branches: [  master ]
   pull_request:
-    branches: [  main ]
+    branches: [  master ]
 
 jobs:
   build:
@@ -73,9 +73,9 @@ name: Windows CI
 
 on:
   push:
-    branches: [  main ]
+    branches: [  master ]
   pull_request:
-    branches: [  main ]
+    branches: [  master ]
 
 jobs:
   build:
